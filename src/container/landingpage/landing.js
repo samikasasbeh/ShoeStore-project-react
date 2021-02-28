@@ -5,10 +5,15 @@ import Content from './contentLanding/Contentlanding';
 
 class Landing extends Component {
 
+    continueToStoreHandler = ()=>{
+        
+    }
     render(){
         return(
             <div className="container">
                 <Content/>
+               
+
             </div>
         );
     }

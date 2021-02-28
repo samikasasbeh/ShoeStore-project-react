@@ -5,7 +5,8 @@
     
 }
 .content header,
-.content text{
+.content text,
+.content button{
     margin: 0;
     display: flex;
     position: absolute;
@@ -19,9 +20,24 @@
     top: 45%;
     font-style:oblique;
 }
+.content Button{
+    top: 60%;
+}
 .content text{
-    color: rgb(243, 208, 161);
+    color: rgb(245, 176, 86);
     font-style: italic;
+}
+.content button{
+    top: 57%;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 13px;
+    width: 110px;
+    height: 40px;
+    font-size: 16px;
+    text-decoration: none;
+    background-color:  rgb(245, 176, 86);
+
 }
 
 
