@@ -37,7 +37,12 @@
     font-size: 16px;
     text-decoration: none;
     background-color:  rgb(245, 176, 86);
+}
 
+.content button:hover{
+    background-color: rgb(136, 89, 1);
+    transition: 0.5s;
+    border: 1px solid rgba(255, 166, 0, 0.911);
 }
 
 
