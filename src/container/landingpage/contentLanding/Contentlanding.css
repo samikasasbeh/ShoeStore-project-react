@@ -1,0 +1,28 @@
+.content{
+    text-align: center;
+    color: aliceblue;
+    display: block;
+    
+}
+.content header,
+.content text{
+    margin: 0;
+    display: flex;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+}
+.content header {
+    font-size: 50px;
+    top: 45%;
+    font-style:oblique;
+}
+.content text{
+    color: rgb(243, 208, 161);
+    font-style: italic;
+}
+
+
+

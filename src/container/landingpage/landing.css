@@ -1,0 +1,10 @@
+.container {
+    background: linear-gradient( rgba(0, 0, 0, 0.548), rgba(0, 0, 0, 0.753) ), url('../../images/bklanding.jpg');
+    background-color: #464646;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+    
+    }
+
